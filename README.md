@@ -1,6 +1,6 @@
 # LinkedIn Clone
 
-Demo link https://evansmeja.github.io
+Demo link https://evansmeja.github.io/linkedin-clone/
 
 **_Built using React JS, Redux, Python Django, Firebase & Styled-Components_** within a week. My first project after improving my React JS skills referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
 
