@@ -1,7 +1,5 @@
 # LinkedIn Clone
 
-![LinkedIn Clone Demo](linkedin-gif.gif)
-
 **_Built using React JS, Redux, Firebase & Styled-Components_** within a week. My first project after learning React JS referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
 
 - Post like functionality
@@ -17,7 +15,7 @@
 - Auto authenticate user on refresh
 - Sign Out
 
-## How to build your own..?
+## How to test it
 
 1. Clone this repo
 1. Install all the dependencies
@@ -72,5 +70,3 @@
 - Might add more login methods
 - Post deleting functionality
 - Add comments on post
-
-**_NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS_**
