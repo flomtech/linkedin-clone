@@ -1,9 +1,13 @@
 # LinkedIn Clone
 
-**_Built using React JS, Redux, Python Django, Firebase & Styled-Components_** within a week. My first project after learning React JS referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
+Demo link https://linkedin.evansmeja.tk
+
+**_Built using React JS, Redux, Python Django, Firebase & Styled-Components_** within a week. My first project after improving my React JS skills referencing a tutorial on YouTube by _'Clever Programmer'_. Added some features apart from the tutorial on my own like:
 
 - Post like functionality
 - Mobile responsiveness
+- Created My own Backend with Python Django
+- Hosted on Cpanel
 
 ## Features and Fuctionality
 
