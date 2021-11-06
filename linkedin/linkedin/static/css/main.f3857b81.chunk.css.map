@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,UAAW,CACX,wBACF,CAGA,EACE,qBACF,CCTA,KACI,cACJ","file":"main.f3857b81.chunk.css","sourcesContent":["body {\n  margin: 0;\n  color:white;\n  background-color: #040714;\n}\n\n\n*{\n  box-sizing: border-box;\n}",".App{\r\n    padding: 0rem 1rem;\r\n}"]}
